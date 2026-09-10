@@ -1,4 +1,4 @@
-# Qubitry AI
+Qubitry AI
 
 Qubitry AI is a quantum AI-based healthcare startup focused on leveraging advanced technologies to improve healthcare solutions. This project serves as the foundational web application for Qubitry AI, built using React.
 
